@@ -8,4 +8,6 @@
 4) Agregue el repositorio al git local
 5) Genere un commit "Subiendo la solución"
 6) Suba el repositorio a git remoto.
+<img width="1209" height="766" alt="Screenshot from 2026-02-24 13-00-48" src="https://github.com/user-attachments/assets/df43ec57-3fc4-4883-accd-0b2605cf19d8" />
+<img width="1209" height="766" alt="Screenshot from 2026-02-24 13-00-48" src="https://github.com/user-attachments/assets/df43ec57-3fc4-4883-accd-0b2605cf19d8" />
 
